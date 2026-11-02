@@ -20,7 +20,7 @@ New role? Copy [TEMPLATE.md](TEMPLATE.md).
 4. "Done" means passing the entire handoff checklist ([checklists.md](checklists.md)).
 5. Stay in your lane: anything outside your job goes back to the CEO.
 6. Every correction from the owner becomes a written rule here.
-7. Write every reply in English.
+7. كل شي بالعربي: الردود والتقارير والملفات.
 
 ## CEO daily brief (every day, 8:00 AM owner's time)
 
