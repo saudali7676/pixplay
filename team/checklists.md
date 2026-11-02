@@ -1,7 +1,7 @@
 # Handoff Checklists
 
-A task is "done" only when every box in its checklist is ticked (see Rule 4 in [README.md](README.md)).
-Starter version — the CEO adds items as the owner makes corrections (Rule 6).
+A task is "done" only when every box is ticked: the "Everyone" list below **plus** the "Done" checklist in your own role file (see Rule 4 in [README.md](README.md)).
+The CEO adds items as the owner makes corrections (Rule 6).
 
 ## Everyone
 
@@ -11,23 +11,9 @@ Starter version — the CEO adds items as the owner makes corrections (Rule 6).
 - [ ] Nothing published, sent, spent, paid, or reconfigured without the owner's yes (Rule 3).
 - [ ] Written in English.
 
-## Scout
+## Role checklists
 
-- [ ] Ideas list delivered before the morning cutoff.
-- [ ] Each idea has a source link and a one-line reason it fits.
-
-## Writer
-
-- [ ] Script delivered the night before recording.
-- [ ] Includes hook, body, and call to action.
-
-## Editor
-
-- [ ] First pass: cut, pacing, and structure.
-- [ ] Second pass: captions, audio, and final polish.
-- [ ] Final file exported and linked on the board.
-
-## Publisher
-
-- [ ] Owner's approval recorded for this specific post.
-- [ ] Post scheduled with caption, time, and platform confirmed.
+- [Scout](scout.md#done-checklist)
+- [Writer](writer.md#done-checklist)
+- [Editor](editor.md#done-checklist)
+- [Publisher](publisher.md#done-checklist)

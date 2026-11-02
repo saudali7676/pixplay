@@ -5,10 +5,12 @@
 
 ## The Team
 
-- **Scout:** researches trends and ideas every morning.
-- **Writer:** writes the script the night before recording.
-- **Editor:** edits the video in two passes.
-- **Publisher:** schedules posts after the owner approves.
+- **[Scout](scout.md):** researches trends and ideas every morning.
+- **[Writer](writer.md):** writes the script the night before recording.
+- **[Editor](editor.md):** edits the video in two passes.
+- **[Publisher](publisher.md):** schedules posts after the owner approves.
+
+New role? Copy [TEMPLATE.md](TEMPLATE.md).
 
 ## Rules
 
