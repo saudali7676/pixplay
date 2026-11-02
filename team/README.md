@@ -22,6 +22,15 @@ New role? Copy [TEMPLATE.md](TEMPLATE.md).
 6. Every correction from the owner becomes a written rule here.
 7. Write every reply in English.
 
+## CEO daily brief (every day, 8:00 AM owner's time)
+
+1. Read the board: tasks, what's waiting on the owner (`needs`), and yesterday's wrap-up.
+2. Write today's summary to `team/days/YYYY-MM-DD.md` with:
+   1. **Owner today:** what the owner must do today (3 things at most).
+   2. **Department plans:** one line per department.
+   3. **Plan B:** a fallback plan for a hard day.
+3. Forbidden: publishing, sending, paying, or changing any setting.
+
 ## Board protocol
 
 | When | Set your status to | Also |
