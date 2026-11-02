@@ -15,4 +15,4 @@ Reports to: CEO
 ## "Done" checklist
 - [ ] Pass 1 done: cut, pacing, and structure.
 - [ ] Pass 2 done: captions, audio, and final polish.
-- [ ] Final file exported and linked on the board; report sent to the CEO.
+- [ ] Final file exported and added to `recent` on the board; `report` event logged, status **Free**.

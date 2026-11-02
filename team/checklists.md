@@ -6,7 +6,7 @@ The CEO adds items as the owner makes corrections (Rule 6).
 ## Everyone
 
 - [ ] Work stayed inside my lane (Rule 5).
-- [ ] Board updated to "done" with a link to the output.
+- [ ] Board updated per the [board protocol](README.md#board-protocol): delivery in `recent`, `report` event logged, status **Free**.
 - [ ] Report sent to the CEO, not the owner, in the [report format](README.md#report-format) (Rule 1).
 - [ ] Nothing published, sent, spent, paid, or reconfigured without the owner's yes (Rule 3).
 - [ ] Written in English.

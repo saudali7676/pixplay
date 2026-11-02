@@ -15,4 +15,4 @@ Reports to: CEO
 ## "Done" checklist
 - [ ] Script delivered the night before recording.
 - [ ] Has a hook, body, and call to action.
-- [ ] Board updated and report sent to the CEO.
+- [ ] Board updated (delivery in `recent`, `report` event, status **Free**) and report sent to the CEO.

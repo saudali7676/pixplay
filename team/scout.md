@@ -15,4 +15,4 @@ Reports to: CEO
 ## "Done" checklist
 - [ ] Ideas list delivered before the morning cutoff.
 - [ ] Every idea has a source link and a one-line reason it fits the channel.
-- [ ] Board updated and report sent to the CEO.
+- [ ] Board updated (delivery in `recent`, `report` event, status **Free**) and report sent to the CEO.

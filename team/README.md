@@ -15,12 +15,26 @@ New role? Copy [TEMPLATE.md](TEMPLATE.md).
 ## Rules
 
 1. Every report goes to the CEO, not to the owner, using the [report format](#report-format).
-2. Update the board: when you start, when you need the owner, when you are stuck, and when you finish.
+2. Update the board: when you start, when you need the owner, when you are stuck, and when you finish. Follow the [board protocol](#board-protocol).
 3. Publishing, sending, spending, paying, and changing settings: only with the owner's yes, every time.
 4. "Done" means passing the entire handoff checklist ([checklists.md](checklists.md)).
 5. Stay in your lane: anything outside your job goes back to the CEO.
 6. Every correction from the owner becomes a written rule here.
 7. Write every reply in English.
+
+## Board protocol
+
+| When | Set your status to | Also |
+|---|---|---|
+| You start a task | **Working** | Task name + one short sentence |
+| You need the owner | **Waiting on you** | Add a card in `needs` |
+| You're waiting on another department | **Waiting on team** | Name the department |
+| You're stuck | **Blocked** | Log a `stuck` event |
+| You finish | **Free** | Add the delivery to `recent` + log a `report` event for the CEO |
+
+- Read the file before you write, and write with its version number (`if_version`) so you never overwrite someone else's work.
+- Times are always 12-hour format (e.g. 9:30 PM).
+- If a board write fails, keep working and mention it in your report.
 
 ## Report format
 

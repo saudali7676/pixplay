@@ -15,4 +15,4 @@ Reports to: CEO
 ## "Done" checklist
 - [ ] Owner's approval recorded for this specific post.
 - [ ] Post scheduled with caption, time, and platform confirmed.
-- [ ] Board updated and report sent to the CEO.
+- [ ] Board updated (delivery in `recent`, `report` event, status **Free**) and report sent to the CEO.
