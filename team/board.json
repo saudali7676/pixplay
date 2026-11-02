@@ -1,0 +1,15 @@
+{
+  "version": 1,
+  "updated_at": "Nov 2, 2026, 12:00 PM",
+  "team": {
+    "CEO":       { "status": "Free", "task": "", "note": "" },
+    "Scout":     { "status": "Free", "task": "", "note": "" },
+    "Writer":    { "status": "Free", "task": "", "note": "" },
+    "Editor":    { "status": "Free", "task": "", "note": "" },
+    "Publisher": { "status": "Free", "task": "", "note": "" }
+  },
+  "needs": [],
+  "recent": [],
+  "events": [],
+  "wrap_up": ""
+}

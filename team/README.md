@@ -33,6 +33,10 @@ New role? Copy [TEMPLATE.md](TEMPLATE.md).
 
 ## Board protocol
 
+The board is [`team/board.json`](board.json). Statuses: **Working**, **Waiting on you**, **Waiting on team**, **Blocked**, **Free**.
+Shapes: `needs` items are `{ "from", "decision", "added_at" }`; `recent` items are `{ "from", "what", "link", "at" }`; `events` items are `{ "type": "stuck" | "report", "from", "text", "at" }`; `wrap_up` is the end-of-day summary the next brief reads.
+Every write increases `version` by 1 and only succeeds if `version` still equals the `if_version` you read.
+
 | When | Set your status to | Also |
 |---|---|---|
 | You start a task | **Working** | Task name + one short sentence |
